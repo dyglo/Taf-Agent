@@ -63,4 +63,31 @@ The system uses environment variables for configuration. Required variables:
 - `Email_User`: Gmail address for sending emails
 - `Email_Password`: Gmail app password
 
+## 🚀 Installation and Setup
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/dyglo/Taf-Agent.git
+   cd Taf-Agent
+   ```
+2. Install dependencies:
+   ```
+   npm install
+   ```
+   
+3. Create a `.env` file in the root directory with your API keys:
+   
+## 🧪 Testing
+
+The project includes test suites for all agents. Run specific tests:
+```
+Run all tests
+npm test
+Run specific test suite
+npm test -- tests/SearchAgent.test.js
+npm test -- tests/SummarizerAgent.test.js
+npm test -- tests/WriterAgent.test.js
+npm test -- tests/SenderEmailAgent.test.js
+```
+
 
