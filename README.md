@@ -80,14 +80,18 @@ The system uses environment variables for configuration. Required variables:
 ## 🧪 Testing
 
 The project includes test suites for all agents. Run specific tests:
-```
 Run all tests
+```
 npm test
+```
 Run specific test suite
+```
 npm test -- tests/SearchAgent.test.js
 npm test -- tests/SummarizerAgent.test.js
 npm test -- tests/WriterAgent.test.js
 npm test -- tests/SenderEmailAgent.test.js
 ```
+
+#### Big Thanks y'all
 
 
