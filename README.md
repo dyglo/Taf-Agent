@@ -1,6 +1,4 @@
 # AI News Processing Multi-Agent System
-![TAF Agents](![a-logo-image-with-a-bold-name-titled-taf-agents-be-0H2a4NXjTOqVYlubdKIkCw-6VHRPNmKQli2LoyB-ruCRA](https://github.com/user-attachments/assets/aa5e5bf1-6704-45d1-9cd7-9e047fd97c58)
-)
 
 A sophisticated Multi-Agent System (MAS) that automates the process of gathering, summarizing, and delivering AI-related news using various AI services and APIs.
 
