@@ -92,6 +92,7 @@ npm test -- tests/WriterAgent.test.js
 npm test -- tests/SenderEmailAgent.test.js
 ```
 
-#### Big Thanks y'all
+#### Big Thanks for all contributions 
+this project is currently locked.
 
 
